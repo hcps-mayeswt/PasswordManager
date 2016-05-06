@@ -43,7 +43,7 @@ public class NetworkHandler {
         }
     }
     
-    public void sendCookie() {
+    public void sendCookie(Cookie cookie) {
         
     }
     
