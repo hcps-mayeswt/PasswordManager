@@ -1,7 +1,6 @@
 package passwordmanager.gui;
 
 import javafx.application.Application;
-import static javafx.application.Application.launch;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.scene.Scene;
@@ -35,5 +34,6 @@ public class Screen extends Application {
         primaryStage.setTitle("Test Screen");
         primaryStage.setScene(scene);
         primaryStage.show();
+        //test
     }
 }
